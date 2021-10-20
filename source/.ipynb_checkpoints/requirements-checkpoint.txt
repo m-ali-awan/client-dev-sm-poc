@@ -1,0 +1,5 @@
+fastai==2.5.2
+pydicom
+kornia
+opencv-python
+scikit-image
